@@ -9,3 +9,5 @@ renoshield=# \list
 renoshield=# \du
 
 postgres=# \q
+
+renoshield=# select * from "Users";
